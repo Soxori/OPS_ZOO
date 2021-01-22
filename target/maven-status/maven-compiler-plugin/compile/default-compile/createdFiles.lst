@@ -1,0 +1,7 @@
+cz\educanet\webik\AnimalManager.class
+cz\educanet\webik\Animal.class
+cz\educanet\webik\AnimalResource.class
+cz\educanet\webik\JAXRSConfig.class
+cz\educanet\webik\CaretakerResource.class
+cz\educanet\webik\CaretakerManager.class
+cz\educanet\webik\Caretaker.class
